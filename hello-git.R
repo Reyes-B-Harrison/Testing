@@ -1,2 +1,3 @@
-a <- "Hello Git!" 
-print(test)
+a <- "FUCK Git!" 
+print(a)
+
