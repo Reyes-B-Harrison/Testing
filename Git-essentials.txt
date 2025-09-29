@@ -1,0 +1,14 @@
+git config --global user.name "NAME" 
+git config --global user.email "EMAIL"
+cd repositories/gitABC/
+git init
+git add hello-git.R
+
+git status 
+
+git commit -m "my first commit"
+
+git add hello-git.R README.txt 
+git commit -m "Fixed bug in hello-git + added readme
+
+git log
